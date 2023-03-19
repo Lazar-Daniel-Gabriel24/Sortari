@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1678813438 source:d:\c++\sd mergesort\main.cpp
-	<iostream>
-	<ctime>
-	<cstdlib>
-	<chrono>
-
