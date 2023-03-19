@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1678813001 source:d:\c++\dtructuri de date tema 1\main.cpp
-	<iostream>
-	<ctime>
-	<cstdlib>
-	<chrono>
-
