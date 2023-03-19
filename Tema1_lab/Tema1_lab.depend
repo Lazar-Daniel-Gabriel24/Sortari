@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1679174642 source:d:\facultate informatica\anul 1\semestrul 2\structuri de date\tema1_lab\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<chrono>
+	<algorithm>
+	<fstream>
+	"bubblesort.cpp"
+	"mergesort.cpp"
+	"quicksort.cpp"
+	"shellsort.cpp"
+	"radixsort.cpp"
+
+1679171175 d:\facultate informatica\anul 1\semestrul 2\structuri de date\tema1_lab\bubblesort.cpp
+	<iostream>
+
+1679171542 d:\facultate informatica\anul 1\semestrul 2\structuri de date\tema1_lab\mergesort.cpp
+	<iostream>
+
+1679171648 d:\facultate informatica\anul 1\semestrul 2\structuri de date\tema1_lab\quicksort.cpp
+	<iostream>
+
+1679171806 d:\facultate informatica\anul 1\semestrul 2\structuri de date\tema1_lab\shellsort.cpp
+	<iostream>
+
+1679171732 d:\facultate informatica\anul 1\semestrul 2\structuri de date\tema1_lab\radixsort.cpp
+	<iostream>
+
