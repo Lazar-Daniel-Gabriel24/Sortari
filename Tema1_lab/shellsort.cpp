@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int shellsort(int list[], int n)
+void shellsort(int list[], int n)
 {
     int gap,i,temp,j;
     for(gap = n/2; gap > 0; gap /= 2)
@@ -16,5 +16,5 @@ int shellsort(int list[], int n)
             list[j] = temp;
         }
     }
-    return 0;
+    
 }
