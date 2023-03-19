@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1678817268 source:d:\c++\sd bubblesort\main.cpp
-	<iostream>
-	<ctime>
-	<cstdlib>
-	<chrono>
-
